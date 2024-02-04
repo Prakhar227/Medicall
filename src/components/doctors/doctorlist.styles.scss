@@ -1,0 +1,12 @@
+.card-hover{
+    width: 22rem;
+}
+
+.card-hover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+
+.image{
+    height: 212px;
+}  
